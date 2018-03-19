@@ -6,3 +6,6 @@ void run();
 private:
 int x,y;
 }
+void cat::run()
+{
+}
